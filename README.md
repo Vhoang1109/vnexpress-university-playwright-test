@@ -1,4 +1,4 @@
-# VNexpress website with automation testing
+# VNexpress Website Automation Testing With Playwright
 
 ## Test function  Mục Giáo dục - Tuyển sinh - Điểm thi - Tra cứu đại học
 
