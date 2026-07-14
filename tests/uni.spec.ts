@@ -17,7 +17,7 @@ test.describe("VNExpress - University Search", () => {
     });
   });
 
-  test("UNI_001 - Verify university search tabs", async () => {
+  test("UNI_001 - university search tabs", async () => {
     await test.step("Open major search tab", async () => {
       await uniPage.clickFindMajor();
     });
